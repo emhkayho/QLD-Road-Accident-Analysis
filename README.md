@@ -13,7 +13,7 @@ The primary objective of this analysis is to extract meaningful insights and tre
 The dataset contains detailed records of road traffic crashes in Queensland, Australia. It includes crucial information such as crash locations, severity of injuries, crash types, restraint use, alcohol or speeding involvement, and other relevant attributes. The data spans over two decades, offering a rich source of information for comprehensive analysis.
 
 ## 2.Skills and Concepts Demonstrated:
-- Python: Used for data quality check and data cleaning, along with data preprocessing and feature engineering.
+- Python: Used for data quality check and data cleaning. 
 - MySQL Workbench: Employed to extract meaningful information through SQL queries and aggregations.
 - Seaborn and Matplotlib: Utilized for data visualizations to present trends and patterns effectively.
 - Data Exploration and Analysis: Conducted to gain comprehensive insights and understand data distributions.
